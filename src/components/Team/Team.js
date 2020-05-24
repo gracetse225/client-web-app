@@ -122,7 +122,7 @@ const teamMembers = [
     position: "Marketing",
     img_url: "https://i.imgur.com/n2OqROn.jpg",
     description_1:
-        "Grace is a soon-to-be graduate from Markville Secondary School",
+        "Grace is a soon-to-be graduate from Markville Secondary School.",
     description_2: "She is a foodie and enjoys trying different foods.",
     link_type: "LinkedIn",
     link_url: "linkedin.com/in/grace-tse-a17648174",
